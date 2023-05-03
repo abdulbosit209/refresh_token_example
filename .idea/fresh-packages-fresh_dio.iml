@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/user_repository/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/user_repository/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/user_repository/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/photos_repository/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/photos_repository/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/photos_repository/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/jsonplaceholder_client/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/jsonplaceholder_client/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/packages/jsonplaceholder_client/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
